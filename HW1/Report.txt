@@ -1,5 +1,5 @@
 Task 1:
-**Declares the pointer ptr and initializes it with the address of variable var. Prints the variable value using both ptr and var. Changes the value of the variable using dereferencing.
+Declares the pointer ptr and initializes it with the address of variable var. Prints the variable value using both ptr and var. Changes the value of the variable using dereferencing.
 
 Task 2: 
 Declares the pointer ptr and initializes it with the address of the first element of the array. Uses pointer arithmetic to add an offset to the starting address and print each element. Using the same logic with dereferencing, modifies the values of the array and then prints them.
