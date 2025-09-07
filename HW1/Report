@@ -1,0 +1,18 @@
+Task 1:
+
+Declares the pointer ptr and initializes it with the address of variable var. Prints the variable value using both ptr and var. Changes the value of the variable using dereferencing.
+
+Task 2: 
+Declares the pointer ptr and initializes it with the address of the first element of the array. Uses pointer arithmetic to add an offset to the starting address and print each element. Using the same logic with dereferencing, modifies the values of the array and then prints them.
+
+Task 3:
+Uses dereferencing to save the value pointed to by b in a temporary variable and then swaps the values of the two variables through their pointers.
+
+Task 4:
+Declares a double pointer using ** and prints the value of the variable through both a single pointer and the double pointer.
+
+Task 5:
+Declares the pointer ptr and initializes it with the address of the first character of the string. Checks for the null terminator,  if it hasn’t been reached, prints the character and increments the pointer. Uses another pointer initialized to the start of the string and applies pointer subtraction to get the string length.
+
+Observations:
+Applying & to an array yields a pointer to the entire array, not a pointer to its first element. If want the address of the first elemeent we can either use arr or &arr[0]. Strings in C are terminated with '\0', so traversing with while (*p != '\0') and using pointer subtraction provides a way to measure string length.
