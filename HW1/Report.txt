@@ -1,5 +1,4 @@
 Task 1:
-
 Declares the pointer ptr and initializes it with the address of variable var. Prints the variable value using both ptr and var. Changes the value of the variable using dereferencing.
 
 Task 2: 
