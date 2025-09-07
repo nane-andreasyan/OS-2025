@@ -14,7 +14,7 @@ Uses dereferencing to save the value pointed to by b in a temporary variable and
 ## Task 4
 Declares a double pointer using ** and prints the value of the variable through both a single pointer and the double pointer.
 
-## Task 4
+## Task 5
 Declares the pointer ptr and initializes it with the address of the first character of the string.
 Checks for the null terminator,  if it hasn’t been reached, prints the character and increments the pointer.
 Uses another pointer initialized to the start of the string and applies pointer subtraction to get the string length.
