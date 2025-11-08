@@ -1,0 +1,1 @@
+PID=1717290: this is a text from terminal
